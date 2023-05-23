@@ -260,8 +260,8 @@ es: &DEFAULT_ES
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: equipo
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Oma "
+        role: "Scrum Master"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
