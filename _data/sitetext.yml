@@ -262,7 +262,7 @@ es: &DEFAULT_ES
     people:
       - name: "Oma "
         role: "Scrum Master"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/oma.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
